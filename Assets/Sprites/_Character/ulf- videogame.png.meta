@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 7e29c81117a1d47eab07249f6e66db7e
+timeCreated: 1435146867
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ulf-head
+    21300002: ulf- hair
+    21300004: ulf-torso
+    21300006: ulf- wing-left
+    21300008: ulf- wing-right
+    21300010: ulf- foot-small
+    21300012: ulf- beak
+    21300014: ulf- foot-big
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ulf-head
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1034
+        width: 265
+        height: 280
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ulf- hair
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1268
+        width: 89
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ulf-torso
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 622
+        height: 730
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ulf- wing-left
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 850
+        width: 249
+        height: 211
+      alignment: 9
+      pivot: {x: .955766678, y: .765102267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ulf- wing-right
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 745
+        width: 177
+        height: 213
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ulf- foot-small
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 432
+        width: 252
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ulf- beak
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 0
+        width: 386
+        height: 235
+      alignment: 9
+      pivot: {x: .975564897, y: .742153823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ulf- foot-big
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 228
+        width: 264
+        height: 146
+      alignment: 9
+      pivot: {x: .847026467, y: .562865794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
